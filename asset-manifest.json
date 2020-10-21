@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ChenYiChu/1091-208410398-midproject/static/css/main.cb4986fc.chunk.css",
+    "main.js": "/ChenYiChu/1091-208410398-midproject/static/js/main.8d8f7f1d.chunk.js",
+    "main.js.map": "/ChenYiChu/1091-208410398-midproject/static/js/main.8d8f7f1d.chunk.js.map",
+    "runtime-main.js": "/ChenYiChu/1091-208410398-midproject/static/js/runtime-main.9e4c480c.js",
+    "runtime-main.js.map": "/ChenYiChu/1091-208410398-midproject/static/js/runtime-main.9e4c480c.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/ChenYiChu/1091-208410398-midproject/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d5e76595.chunk.js": "/ChenYiChu/1091-208410398-midproject/static/js/2.d5e76595.chunk.js",
+    "static/js/2.d5e76595.chunk.js.map": "/ChenYiChu/1091-208410398-midproject/static/js/2.d5e76595.chunk.js.map",
+    "index.html": "/ChenYiChu/1091-208410398-midproject/index.html",
+    "precache-manifest.ef63305a80dbea1c827030374cd22e57.js": "/ChenYiChu/1091-208410398-midproject/precache-manifest.ef63305a80dbea1c827030374cd22e57.js",
+    "service-worker.js": "/ChenYiChu/1091-208410398-midproject/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/ChenYiChu/1091-208410398-midproject/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.cb4986fc.chunk.css.map": "/ChenYiChu/1091-208410398-midproject/static/css/main.cb4986fc.chunk.css.map",
+    "static/js/2.d5e76595.chunk.js.LICENSE.txt": "/ChenYiChu/1091-208410398-midproject/static/js/2.d5e76595.chunk.js.LICENSE.txt",
+    "static/media/1.PNG?size=200x200": "/ChenYiChu/1091-208410398-midproject/static/media/1.c678f745.PNG",
+    "static/media/10.PNG?size=200x200": "/ChenYiChu/1091-208410398-midproject/static/media/10.a3142928.PNG",
+    "static/media/2.PNG?size=200x200": "/ChenYiChu/1091-208410398-midproject/static/media/2.64ce4056.PNG",
+    "static/media/3.PNG?size=200x200": "/ChenYiChu/1091-208410398-midproject/static/media/3.02875109.PNG",
+    "static/media/4.PNG?size=200x200": "/ChenYiChu/1091-208410398-midproject/static/media/4.cc80aa15.PNG",
+    "static/media/5.PNG?size=200x200": "/ChenYiChu/1091-208410398-midproject/static/media/5.460729be.PNG",
+    "static/media/6.PNG?size=200x200": "/ChenYiChu/1091-208410398-midproject/static/media/6.6f54386b.PNG",
+    "static/media/7.PNG?size=200x200": "/ChenYiChu/1091-208410398-midproject/static/media/7.7276cad0.PNG",
+    "static/media/8.PNG?size=200x200": "/ChenYiChu/1091-208410398-midproject/static/media/8.9e814dfc.PNG",
+    "static/media/9.PNG?size=200x200": "/ChenYiChu/1091-208410398-midproject/static/media/9.73b8f78a.PNG",
+    "static/media/App_98.css": "/ChenYiChu/1091-208410398-midproject/static/media/Chococooky.679bd216.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e4c480c.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d5e76595.chunk.js",
+    "static/css/main.cb4986fc.chunk.css",
+    "static/js/main.8d8f7f1d.chunk.js"
+  ]
+}
